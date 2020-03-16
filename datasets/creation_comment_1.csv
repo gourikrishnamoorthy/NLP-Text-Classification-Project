@@ -1,0 +1,406 @@
+parent_id,link_id,body,created_utc
+t1_ffvc830,t3_evdw0f,Not to mention that numerous civilizations existed before and after the supposed flood and have no account of it ever happening. Where are all the dead bodies?,1580261963
+t1_ffvb9n0,t3_euzput,"Two separate things here.
+
+First, this is not what I meant. Paul originally said Darwin misunderstood basic probability theory. You've only changed the neutral mutations and the number of base pairs to model the entire genome (Darwin explicitly said he was working with a 1000 base pairs), but you are not otherwise correcting any mathematical flaw in Darwin's point. So this is irrelevant to whether or not his maths is ""totally insane"", or whether he is incorrectly modelling independent probabilities, which he is just not.
+
+(Note that Paul ended up saying [he hadn't even evaluated the maths](https://www.reddit.com/r/Creation/comments/euzput/lets_explain_compound_probabilities_as_they/ffthi8a/), *after* he felt qualified to dismiss it as bunk. He doubled down on his own misunderstanding. It was a futile discussion.)
+
+But, looking at your argument on its independent merits, I have two main immediate issues:
+
+Firstly, you're making the classic creationist assumption of the perfect starting genome. That's the only way you get 200 million into that equation, and it's not something any evolutionist would accept. Populations that exist now have by definition been reproducing for hundreds of millions of years and regions of the genome that are *effectively* non-functional may well have reached that equilibrium long ago.
+
+Secondly, the 20k years to extinction is an assertion with no empirical evidence. Once the fitness effect of a mutation starts to actually matter, selection will kick in. And yes, that threshold will often be much higher than the equilibrium point for deleterious/beneficial mutations.",1580261418
+t3_evdw0f,t3_evdw0f,How is it possible to have the genetic diversity present in human beings from a single source? (Eve was created of Adam),1580260701
+t1_fftgxsh,t3_euzput,"OK, I just modeled his equilibrium thing, but with more accurate values. I used 0.1/0/99.9 b/n/d. This is because, as Paul pointed out, there are no neutral mutations, only effectively neutral. But, I’ll give Darwin the benefit of the doubt by using his definition of neutral mutations for the calculation.
+
+I also used 3000000000 (3 bil) for possible mutation sites, because this is the approximate size of the human genome. If there are any other animal genome sizes you would want to measure this with, just divide my result by 3 bil/ genome size.
+
+Anyway,
+&gt; But as deleterious mutations accumulate, the ratio changes, just like the simple examples above. Where’s the crossover point? 
+
+The crossover point for the human genome is, not 7, not 330, but *998 million mutations*. By dividing this by 100 mutations per gen, then multiplying for 20 years per gen, I got that it would take *200 million years to reach equilibrium*.
+
+OK, so since genetic entropy would take only about 20 thousand years to degrade the genome to extinction, I believe it is clear that equilibrium cannot save evolution.
+
+[Oh, and here’s the image.](https://ibb.co/YBt6g88)",1580260057
+t3_evdw0f,t3_evdw0f,Nice,1580259051
+t1_ffrq3vu,t3_eupqxz,"Try checking out this precis of a symposium from multiple scientific fields about biological information encoding: [https://1308d6cf-b2b3-2023-9a0a-a9949b19df7a.filesusr.com/ugd/a704d4\_cd758ccc64c6497cb22db43e3e6af207.pdf](https://1308d6cf-b2b3-2023-9a0a-a9949b19df7a.filesusr.com/ugd/a704d4_cd758ccc64c6497cb22db43e3e6af207.pdf)
+
+From the introduction:
+
+&gt;The proceedings include the research findings of 29 scientists who represent a diverse spectrum  of  scientific  disciplines,  including information  theory,  computer  science, numerical simulation, thermodynamics, evolutionary theory, whole  organism biology, developmental biology, molecular biology, genetics, physics, biophysics, mathematics, and linguistics.These scientists generally agreed on three crucial points:  
+&gt;  
+&gt;1. Information  is  the  key  to  understanding life.  Within  the  simplest  cell there exists  an immense flow  of  information  through  a  mind-boggling  system  of information  networks.  There  is  constant  and  multidirectional  communication between   proteins,   RNAs,   and   DNAs,   and   these   biological   information networks are in many ways comparable to the internet.   
+&gt;  
+&gt;2. These   biological   information   systems   appear   to   greatly   surpass   human information  technologies.  Such  information  systems  cannot  possibly  operate until  all  the  countless  components  of  the  system  are  in  place -including hardware, software, multiple languages, storage/transmission of communicable prescriptive  information  units,  error  testing/correction  systems,  designated senders/receivers,  etc.    Such  systems  must  be  comprehensive  and  coherently integrated   before   they   can   effectively   operate.  
+&gt;  
+&gt;3. The   enormous   amounts   of   information   found   within   any   cell,   and   the irreducibly complex nature of information systems, can no longer rationally be attributed  to just the  mutation/selection process. New perspectives are  needed that  might  help  us  better  understand  the  nature,  origin,  and  maintenance  of biological information.",1580255495
+t1_ffuxym2,t3_eupqxz,"&gt;Litterally all the support for this you've presented has been mined quotes that don't actually say anything on the distribution.
+
+That's completely wrong. You've got blinders on, but I can't take them off for you. Only you can choose to do that. I understand that it won't be easy, because if you do that you'll have to abandon your whole worldview and start fresh. Nobody really wants to have to do that.",1580252383
+t1_ffuxym2,t3_eupqxz,"&gt;  You shouldn't make any assumption at all.
+
+Without assuming at the very least a net zero effect (normal distribution), there's no way you can even cling to any hope that evolution might work. But I don't even think that would save it because even if you ignore all the neutrals, the net effect of all the other mutations is still deleterious! So at best you'd have NS working to remove everything and barely managing to keep things at a constant level. You'd still never get forward evolution.
+
+&gt;That's actually the most egregious quote you've presented so far because the paper you took that from is all about showing the opposite of the point you're trying to prove.
+
+If you read what I wrote, I acknowledged that. The whole point of that paper is that they are saying ""nearly neutral damaging mutations are well-known, but if that's all we've got then evolution won't work. We have to find a way to show that there are beneficial mutations to balance them out."" And I don't think they were successful. For one thing they make one assumption that is known to be bad: they assume that synonymous mutations are ""neutral"" (in context I think they mean of no effect at all). [But that's known to be false.](https://elifesciences.org/articles/45952)",1580251856
+t1_ffuuq5o,t3_eupqxz,"&gt; Cars that did reproduce would be even more complex than the ones we do have. Making that irrelevant. And what does the assumption of beginnings have to do with my statement here? Nothing. What we do have now is a highly complex machine, just like cars.
+
+Reproducing organisms face selection and a beginning assumption is required if you think that an infentesimally small change, immeasurable change is going to be almost always in one direction.
+
+&gt; Again, there are no zeros.
+
+Centered. C e n t e r e d. An average effect of zero, not an individual effect of zero.
+
+&gt;  or you are going to have to take the completely counterintuitive step of claiming that the distribution of effects will be totally different for small mutations, compared to large; and there's no reason at all to say that.
+
+No. You shouldn't make any assumption at all. There is no data to support any distribution. It's immeasurable by definition.
+
+&gt; Helpful enough to somehow counteract all the decline we know is definitely happening.
+
+Litterally all the support for this you've presented has been mined quotes that don't actually say anything on the distribution.
+
+&gt; Although we expect slightly advantageous mutations to exist, currently there is only limited evidence for their existence in real populations
+
+That paper is all about measurable fitness effects (so not the neutral ones that are topical) and they go in to demonstrate their hypothesis of their existence with a natural experiment. That's actually the most egregious quote you've presented so far because the paper you took that from is all about showing the opposite of the point you're trying to prove.",1580251475
+t1_ffutqnk,t3_eupqxz,"&gt; Cars don't reproduce and we cant assume the genome was optimized to begin with.
+
+Cars that did reproduce would be even more complex than the ones we do have. Making that irrelevant. And what does the assumption of beginnings have to do with my statement here? Nothing. What we do have now is a highly complex machine, just like cars.
+
+&gt;It actually does. You can have one large beneficial change, 40 huge deleterious changes, and everything else centered at net 0 and still have average deleterious.
+
+Again, there are no zeros. All of them are either beneficial or deleterious. So you are forced into the spot where you can either admit that they are going to have the same distribution, roughly, regardless of size, or you are going to have to take the completely counterintuitive step of claiming that the distribution of effects will be totally different for small mutations, compared to large; and there's no reason at all to say that.
+
+See the corner you're backed into now? You're pinning all your hopes for evolution on the prospect that somehow, a big proportion of very tiny mutations are helpful. Helpful enough to somehow counteract all the decline we know is definitely happening.
+
+But our friends the experts paint a different picture, even as they attempt furiously to rescue the theory of evolution by searching out these beneficial mutations:
+
+&gt;""Although we expect slightly advantageous mutations to exist, currently there is only limited evidence for their existence in real populations...""
+
+https://www.pnas.org/content/pnas/104/43/16992.full.pdf",1580249703
+t3_ev4n5w,t3_ev4n5w,"Oh yeah, this is really cool. I learned about it several days ago from the ID book Darwin’s Doubt. Great book. You guys should read it.",1580249320
+t1_ffurp1n,t3_eupqxz,"&gt; So you're suggesting that all the info we know about mutations that comes from the kind that we can measure should just be thrown out the window and ignored when it comes to mutations that are too small to measure? Somehow the likelihood of beneficial vs deleterious would be completely different for these two classes? I'm not buying that for an instant.
+
+You should not make assumptions of quantitative effects when you cant quantify them.
+
+If you get an A-&gt;G mutation in a nonregualtory, nonexpressed, nonbinding region of the genome, you shouldn't assume it will have a deleterious effect when the only differences known are the use of one less carbon and one more nitrogen.
+
+&gt; You want to really understand mutations? Pick any complex machine, like a car for example. Then take a hammer and pick any component of that machine at random and hit it with your hammer. Hit it really hard, and that's a mutation with measurable fitness impact. Hit it softly and now you've got a nearly neutral mutation. Is that clear enough for you?
+
+Cars don't reproduce and we cant assume the genome was optimized to begin with.
+
+&gt; As Gerrish et al put it, mutations are ""indiscriminate alterations"" of complexity, and as such, by nature they are bound to be more deleterious on average than beneficial. Whether they are small or large changes makes no difference.
+
+It actually does. You can have one large beneficial change, 40 huge deleterious changes, and everything else centered at net 0 and still have average deleterious.",1580249169
+t1_ffuqq2m,t3_eupqxz,"So you're suggesting that all the info we know about mutations that comes from the kind that we **can measure** should just be thrown out the window and ignored when it comes to mutations that are too small to measure? Somehow the likelihood of beneficial vs deleterious would be completely different for these two classes? I'm not buying that for an instant.
+
+You want to really understand mutations? Pick any complex machine, like a car for example. Then take a hammer and pick any component of that machine at random and hit it with your hammer. Hit it really hard, and that's a mutation with measurable fitness impact. Hit it softly and now you've got a nearly neutral mutation. Is that clear enough for you?
+
+As Gerrish et al put it, mutations are ""indiscriminate alterations"" of complexity, and as such, by nature they are bound to be more deleterious on average than beneficial. Whether they are small or large changes makes no difference.",1580248072
+t1_ffuly0r,t3_eupqxz,"&gt; ""… it seems unlikely that any mutation is truly neutral in the sense that it has no effect on fitness. All mutations must have some effect, even if that effect is vanishingly small. However, there is a class of mutations that we can term effectively neutral. These are mutations for which Nes is much less than 1, the fate of which is largely determined by random genetic drift. As such, the definition of neutrality is operational rather than functional; it depends on whether natural selection is effective on the mutation in the population or the genomic context in which it segregates, not solely on the effect of the mutation on fitness.""
+
+Not a position on whether or not the near neutral mutations are deleterious, only that they have fitness effects. 
+
+&gt; ""In summary, the vast majority of mutations are deleterious. This is one of the most well-established principles of evolutionary genetics, supported by both molecular and quantitative-genetic data.""
+
+That paper is based on a bunch of other papers that measured fitness effects. Doesn't talk about mutations that are effectively neutral. Its obvious you're misinterpreting his words too, because the first paper you cited is also written by him, and his entire section on neutral mutations is summed up by ""it depends,"" and never actually quantifies probability within the category of neutral. He does explicitly say though that ""...as little as 5% and as much as 50% of mutations are deleterious"" in non-coding regions (a significant portion of eukaryotes genomes) depending on the organism. For humans, that value was 5%.
+
+&gt; Even the simplest of living organisms are highly complex. Mutations—indiscriminate alterations of such complexity—are much more likely to be harmful than beneficial.
+
+Again, not a paper that looks at neutral mutation effects. This is a paper about quantifying mutation impacts. We're talking mutations that impact too little to quantify. Your quote is also based on papers that quantify mutations, according to their citations. This isn't talking about whether or not neutral mutations are deleterious. Its a third category.",1580247516
+t1_ffum1z7,t3_eupqxz,"Not in that spot. But see my post here:
+
+https://www.reddit.com/r/Creation/comments/eupqxz/lets_pick_apart_darwinzdf42s_grand_theory_of/ffuly0r?utm_source=share&amp;utm_medium=web2x",1580244861
+t1_fful06e,t3_eupqxz,"""Even if"" has a very different meaning to ""even though,"" Paul. They aren't calling most mutations deleterious.",1580244821
+t1_ffuktya,t3_eupqxz,"&gt;They couldn't find a fitness effect plus or minus, so they're hedging their bets by saying near. They could not quantify the effects.
+
+They aren't ""hedging their bets"". 'Near neutral' is another way of saying 'effectively neutral', and there is a specific definition given in the literature for this:
+
+&gt;""… it seems unlikely that any mutation is truly neutral in the sense that it has no effect on fitness. All mutations must have some effect, even if that effect is vanishingly small. However, there is a class of mutations that we can term effectively neutral. These are mutations for which Nes is much less than 1, the fate of which is largely determined by random genetic drift. As such, the definition of neutrality is operational rather than functional; it depends on whether natural selection is effective on the mutation in the population or the genomic context in which it segregates, not solely on the effect of the mutation on fitness.""
+
+&amp;#x200B;
+
+Eyre-Walker, A., and Keightley P.D., The distribution of fitness effects of new mutations, Nat. Rev. Genet. 8(8):610–8, 2007.
+
+[doi.org/10.1038/nrg2146](https://doi.org/10.1038/nrg2146).
+
+&amp;#x200B;
+
+What's more, you're claiming that if we cannot directly quantify a mutation's effect, then we cannot make any assumptions about its effect. It could be literally anything! But that would only be the case if mutations had a normal distribution of effects-- all effects equally likely. We know that's not true! Mutations are overwhelmingly more likely to be deleterious:
+
+&gt;""In summary, the vast majority of mutations are deleterious. This is one of the most well-established principles of evolutionary genetics, supported by both molecular and quantitative-genetic data.""
+
+Keightley P.D., and Lynch, M., Toward a realistic model of mutations affecting fitness, Evolution, 57(3):683–5, 2003.
+
+&amp;#x200B;
+
+&gt;""Even the simplest of living organisms are highly complex. Mutations—indiscriminate alterations of such complexity—are much more likely to be harmful than beneficial.""
+
+Gerrish, P., et al., Genomic mutation rates that neutralize adaptive evolution and natural selection,
+
+J. R. Soc. Interface, 29 May 2013; DOI: 10.1098/rsif.2013.0329.",1580244755
+t1_ffuktya,t3_eupqxz,"I do. It means just what Eyre-Walker and Keightley said:
+
+&gt;""... particularly for multicellular organisms ... most mutations, **even if they are deleterious**, have such small effects that one cannot measure their fitness consequences."" Emphasis added.
+
+Eyre-Walker, A., and Keightley P.D., The distribution of fitness effects of new mutations, Nat. Rev. Genet. 8(8):610–8, 2007.
+doi.org/10.1038/nrg2146.",1580244176
+t1_ffukew5,t3_eupqxz,"Do you know what undetectable means? They couldn't find a fitness effect plus or minus, so they're hedging their bets by saying near. They could not quantify the effects. They aren't worth addressing because you cannot know their impact.",1580244073
+t1_ffujoyk,t3_eupqxz,"Yeah, I know. Have you read my post? Do you know what ""near neutral"" means?",1580243818
+t1_ffujfza,t3_eupqxz,"&gt; In combination, these results suggest that the fitness effects of a majority of spontaneous mutations were near neutral, or at least undetectable, with plate-based laboratory fitness assays. 
+
+[Literally the second paper you're quoting from](https://jvi.asm.org/content/92/14/e01031-17)",1580243385
+t1_ffuja8l,t3_eupqxz,"&gt;  you cant quantify fitness effects of neutral mutations, the genetic load impact
+
+That's untrue. If we can't know anything about the fitness effects of neutral mutations than the papers I have quoted should not exist. Yet they do. You're obviously missing something important.",1580243237
+t1_ffuik9t,t3_eupqxz,"Im really uninterested in numbers games and minutia of genetic entropy when you cant quantify fitness effects of neutral mutations, the genetic load impact, or fitness post threshold, among its other issues. Again, i only got involved because you asked me about basic statistics.",1580243142
+t1_ffui7vc,t3_eupqxz,"I have no problem with your ""conduct""; you are free to make any statements you like. I have a problem with your intellectual honesty, because you refuse to acknowledge the facts even after they have been presented to you and attested. That's all.
+
+Feel free to author a post of your own explaining your mechanism for how evolution is supposed to work despite the ever growing load of deleterious mutations. I have shown DarwinZDF42's model to be entirely lacking. Maybe yours will fair better?",1580242701
+t1_ffui0sb,t3_eupqxz,I'm not sure where I'm being misleading or political. You're welcome to point out where your issue with my conduct is and I would be happy to edit in a clarification if I said something misleading by mistake.,1580242494
+t1_ffuhibm,t3_eupqxz,"If I weren't already a creationist, these discussions with supposedly highly educated evolutionists like yourself and DarwinZDF who have to resort to **misdirection and politics** (like you are still doing here) when pressed on the fundamental problems with Darwinism at a genetic level--would make me into one.",1580242374
+t1_ffuh8o9,t3_eupqxz,"&gt; unless I get asked to contribute to something like you did.
+
+You straight up asked me, and he's not wrong. I said there are more useful, significant factors like compensatory mutations elsewhere.",1580242065
+t1_ffugrkh,t3_eupqxz,"&gt;Im purposefully not making an argument about the relevancy to genetic entropy.
+
+Great-- then don't claim you agree with DarwinZDF42 because that is tantamount to making an argument. He was clearly wrong, but you dodged and tried to act like he wasn't-- after you had already agreed he was wrong about back mutations being a solution to genetic entropy.",1580241905
+t1_ffug0tz,t3_eupqxz,"Im just answering his questions on mutations. Im purposefully not making an argument about the relevancy to genetic entropy. I try to just post here answering questions about basic biology and issues related to /r/DebateEvolution from a moderation perspective, unless I get asked to contribute to something like you did.",1580241617
+t1_ffufu6p,t3_eupqxz,"No disagreement there. And I don't disagree with you fundamentally about the mutations being a function of the number of bases, since they are random; I just meant to point out that 1) other factors intervene and 2) in the context of this discussion it doesn't even matter because they're all very highly unlikely to produce back mutations.",1580241180
+t1_ffufr3r,t3_eupqxz,"RNA is less stable than DNA and they use different replication machinery.
+
+&gt; changing nothing else
+
+Also those papers are also calculating on a per-base level than a per-genome level
+
+&gt; On a per-site level, DNA viruses typically have mutation rates on the order of 10^−8 to 10^−6 substitutions per nucleotide site per cell infection (s/n/c). RNA viruses, however, have higher mutation rates that range between 10−^6 and 10^−4 s/n/c",1580241071
+t1_ffuf8ut,t3_eupqxz,"&gt; As I said here, mutation rates are (mostly, esp. for point mutations) based on the chemistry of the bases and the replication enzymes. As you increase genome size, changing nothing else, the number of mutations you get will also increase.
+
+I think there are too many other intervening factors involved in mutation rates to make a blanket statement like that. RNA viruses have [higher mutation rates](https://jvi.asm.org/content/92/14/e01031-17) yet [smaller genomes](https://www.frontiersin.org/articles/10.3389/fevo.2015.00143/full) compared to DNA viruses, for example. This just so happens to make them good subjects for studying the effects of genetic entropy.",1580241018
+t1_ffud9i3,t3_eupqxz,"&gt; You can say it ""stays the same"" if you mean that in all cases it is highly unlikely. But to my knowledge there is not some kind of fixed ratio of mutation rate compared to genome size, as you're implying here.
+
+As I said [here](https://old.reddit.com/r/Creation/comments/eupqxz/lets_pick_apart_darwinzdf42s_grand_theory_of/fftkrs2/), mutation rates are (mostly, esp. for point mutations) based on the chemistry of the bases and the replication enzymes. As you increase genome size, changing nothing else, the number of mutations you get will also increase.
+
+This is a discussion on whether or not changing the genome size affects the rate of back mutations, not whether or not those are frequent to begin with. For point mutations, (not assuming that your first mutations are guaranteed to happen), the chance of a point mutation swapping back is more or less (mutation rate)*1/3. This is independent of genome size when mutation rate is a metric of mutations/base.
+
+This becomes more important as you saturate the genome with deleterious mutations, because a higher percentage of bases that mutate will have mutated already, but what a critical threshold of non-viability for an individual is, what status modern populations are, or whether or not it matters to a large population's viability is a matter where you and I disagree, but it does not change the math for back mutation rate on a per-loci level.",1580240714
+t1_ffudynd,t3_euzput,At this point I think this horse has been beaten to death. The upshot is that back mutations are not a solution to genetic entropy. They should never have even been brought up in the context of this debate.,1580240115
+t1_ffu9zd6,t3_euzput,When we started this conversation the starting mutations were not given. You've adjusted your response to be more accurate.,1580239947
+t1_ffu5pkf,t3_eupqxz,"No, you don't get nearly enough more mutations to compensate for the size of the genome. The human genome contains 3 billion bases, yet we only inherit about 100 new mutations per generation.
+
+  
+You can say it ""stays the same"" if you mean that in all cases it is highly unlikely. But to my knowledge there is not some kind of fixed ratio of mutation rate compared to genome size, as you're implying here.
+
+ In realistic scenarios, back mutations are so unlikely that the possibility of them happening by chance can be essentially ignored. (which they are (!) in all the pop gen papers on the fitness distribution that I've personally seen).
+
+u/3704",1580239531
+t1_ffu9ow6,t3_euzput,"&gt; Yeah, this is the original chance of the first mutation. the 1/3 factor is accounting for mutations at the same loci to a base that wasn't the original.
+
+The chances of the starting mutations are 1. They are a given. We are only concerned with the probability of reversing the mutations once they happen. I created a very generous and oversimplified hypothetical example, and it still yielded very low probabilities. If this isn't enough to make this point clear, nothing will be.",1580237585
+t1_ffu9bgp,t3_euzput,"&gt; My math has been written correctly after some trial and error on my part, and you have also agreed that it is correct. And all throughout I have been correct that back mutations are highly unlikely, and Darwin was wrong to suggest the probabilities are even close to the same.
+
+Yeah, now, after a long drawn out discussion on statistics, its *better*. I agreed with his initial assessment.
+
+&gt; The chance of the back mutation is dependent upon the mutation rate and the size of the genome.
+
+Yeah, this is literally the original chance of the first mutation. the 1/3 factor is accounting for mutations at the same loci to a base that wasn't the original.",1580237418
+t1_ffu90cn,t3_euzput,"Ok, well then read their papers. You apparently don't know what they are saying. Read my post.",1580237246
+t1_ffu8k3j,t3_euzput,"My math has been written correctly after some trial and error on my part, and you have also agreed that it is correct. And all throughout I have been correct that back mutations are highly unlikely, and Darwin was wrong to suggest the probabilities are even close to the same.
+
+If you want to try to put a dishonest spin on this just to save face for ""your side"", you can, but everybody else can see it for what it is. 
+
+&gt;is 1/3 the original chance of that first mutation
+
+... no? Now you're going off on some other tangent that's not related to anything else that has been previously stated. The chance of the back mutation is dependent upon the mutation rate and the size of the genome.
+
+I will also point out here that you claimed you agreed with DarwinZDF42, but his claim was not 1/3, but rather he said they were about equal. Neither of those are correct, however.",1580237196
+t1_ffrb6os,t3_eupqxz,[removed],1580237082
+t1_ffu8th3,t3_euzput,Population geneticists are evolutionary biologists.,1580237015
+t1_ffu8p3o,t3_euzput,"I said population geneticists, not evolutionary biologists. I have quoted them verbatim from their peer-reviewed works, so there is no room for debate on this. I have not misrepresented their views.",1580236901
+t1_ffu8e24,t3_euzput,Except I work in an evolutionary biology lab. This isn't what evolutionary biologists are saying.,1580236829
+t1_ffu69qg,t3_euzput,"The probability of a perfect back mutation, assuming point mutations and equal probability of types of point mutations, is 1/3 the original chance of that first mutation. The chance of another mutation at the same loci is the same as the original chance. The only reason I was dragged into this is because you wanted my opinion of your math, which was wrong, and I agreed with him.",1580236748
+t1_ffu7ykd,t3_euzput,"&gt; Strongly negative mutations are deleterious, and evidence that most 'near-neutral' mutations that persist are very slightly deleterious isn't supported by data because by definition it can't be measured.
+
+As I have shown, what you are saying here is at odds with what the evolutionary population geneticists themselves are saying. Your beef is with them, apparently, because in order to maintain your faith in evolution you have to disagree with what the experts in the field themselves have to say.
+
+Although we cannot directly measure the fitness effects of a near-neutral, we can still know they happen based on mutational accumulation experiments as well as simply having a conceptual understanding of what mutations are to begin with: random copying mistakes being applied to a highly complex machine.",1580236648
+t1_ffu7g13,t3_euzput,"&gt;  All mutations have some impact, and on average that impact is overwhelmingly negative. 
+
+And this is where we get to the fundamental disagreement. Strongly negative mutations are deleterious, and ~~evidence~~ the idea that most 'near-neutral' mutations that persist are very slightly deleterious isn't supported by data because by definition it can't be measured.",1580236390
+t1_ffu7bjl,t3_euzput,"No, there will not. There are no functionally neutral mutations. All mutations have some impact, and on average that impact is overwhelmingly negative. Each generation, all members of the population have inherited a small number of mostly deleterious mutations from their parents. NS has no good options to choose from, and must settle for the lesser of evils.",1580236085
+t1_ffu73q6,t3_euzput,Mutations are probabilistic. There will be members of the population that have enough back/neutral mutations/positive mutations to not go over the threshold unless the population is very small.,1580236011
+t1_ffrqjh7,t3_eupqxz,"&gt; Because atheism is inherently unsatisfying for people and it leads toward the acceptance ultimately of some other deity to worship.
+
+I know you believe this to be true fundamentally, but that's certainly not the case for me or any other atheist I personally know. The world doesn't make any sense in the context of just about any religious view that includes an omni-benevolent deity such as the Judaic god. when I became an atheist and let go of those unfounded beliefs the world and everything in it, how it works and every observation made sense. There was a ginormous release of tension caused by the cognitive dissonance that I maintained between what I was taught about god and what I could see for myself to be true about the world. It got worse as I got older and thought more deeply until it broke on a mountain one day when I was traveling home from a hiking trip with my dad.
+
+So, no, it is not inherently unsatisfying, but completely and utterly the opposite of that.",1580235973
+t1_ffu6zhc,t3_euzput,"I know. And because each generation loses a little bit of fitness (really, function) compared to the previous one, the whole population will reach that point at roughly the same time. NS can't do anything to stop it.",1580235882
+t1_ffu6rea,t3_euzput,"There's no selective pressure before you reach that threshold. Once you reach that threshold, you're non viable.",1580235813
+t1_ffu6m98,t3_euzput,"Nope. There's none, because each generation slips closer to that threshold and NS has nothing to say on the matter. I don't think you read my post just before this one where I explained that clearly.",1580235677
+t1_ffu6gxi,t3_euzput,"Humans obtain about 100 new mutations per generation, and we have a genome size of 3 billion bases. So do you want to calculate those odds of getting a back mutation?",1580235590
+t1_ffu6fvi,t3_euzput,Going over the threshold of viability is a very strong negative selective pressure.,1580235590
+t1_ffr2bfh,t3_eupqxz,"&gt;Atheism is a cult.
+
+The blinding irony of that statement aside, you guys do realize that, just statistically speaking, the [majority of evolutionists are religious if not Christian](https://www.pewforum.org/2009/11/05/scientists-and-belief/) and the [majority of Christians accept evolution](https://www.pewresearch.org/science/2015/07/01/chapter-4-evolution-and-perceptions-of-scientific-consensus/) as the best explanation for the diversity of life even if they don't agree about how life began?
+
+You YEC guys are the underwhelming minority.",1580235512
+t1_ffu5ly2,t3_euzput,"&gt; and the larger the genome gets the more unlikely they become.
+
+That's only the case if you lock the mutation rate as per genome instead of per base. My formulas scale correctly with genome size, your math does not.",1580235502
+t1_ffu67gq,t3_euzput,"&gt; but its not one that's invalid or wrong, especially when you start to get to the position where genetic load is high.
+
+Once you get to the point that genetic load is so high that back mutations are even remotely probable, you've already trashed a huge percentage of the genome. You're already dead.",1580235484
+t1_ffu67gq,t3_euzput,"&gt; No, I agree with Darwin here
+
+Not based on everything we just said. What is it that you are agreeing with exactly?",1580235382
+t1_ffu5ebg,t3_euzput,"&gt; I am not 'pinned down', and u/CTR0 doesn't even agree with you in the first place! He agrees with me that back mutations are unlikely and do not contribute anything to a hypothetical case against genetic entropy. If I were him I would publicly repudiate your misleading statements, because if I were him I would not want to be associated with your glaring errors.
+
+No, I agree with Darwin here, but there are more important things than perfect back mutations. Specifically, i think modifications in the opposite direction elsewhere in the affected pathways are more important than the precision of back mutations. It's not the strongest argument against genetic entropy, but its not one that's invalid or wrong, especially when you start to get to the position where genetic load is high.
+
+&gt; [Edit: he says he agrees with DarwinZDF, but given his statements are totally different from Darwin's, he appears to just be throwing him a bone here because he's a fellow anti-creationist.]
+
+Disagreeing with importance is not the same as disagreeing in relevancy.",1580235343
+t1_ffu5e0i,t3_eupqxz,No. You get more mutations but the mutations are spread out. It stays the same.,1580235046
+t1_ffu59dk,t3_euzput,"&gt; Its right if you lock the mutation rate at 2/genome for a genome of that size.
+
+That's just the hypothetical example I gave. The ultimate point was just to show that back mutations are very unlikely, and the larger the genome gets the more unlikely they become.",1580234986
+t3_euzput,t3_euzput,"&gt;So, to summarize, my math is wrong for three different and mutually exclusive reasons, and also my math is right, and also he hasn't evaluated the math.  
+&gt;  
+&gt;Thanks for, uh, clearing that up, [/u/pauldouglasprice](https://www.reddit.com/u/pauldouglasprice).  
+&gt;  
+&gt;Un-freaking-believable.  
+&gt;  
+&gt;(And a thank you to [/u/CTR0](https://www.reddit.com/u/CTR0) and [/u/ThurneysenHavets](https://www.reddit.com/u/ThurneysenHavets) for pinning him down where I can't.)
+
+For reasons I can't quite understand, u/DarwinZDF42 keeps tagging me in commments on a sub where I have been banned (and he has refused to lift the frivolous ban himself). So he simultaneously wants me to read what he wrote, but he does not want me to be able to answer him. Try to figure that one out!
+
+I am not 'pinned down', and u/CTR0 doesn't even agree with you in the first place! He agrees with me that back mutations are unlikely and do not contribute anything to a hypothetical case against genetic entropy. **\[Edit: he says he agrees with DarwinZDF, but given his statements are totally different from Darwin's, he appears to just be throwing him a bone here because he's a fellow anti-creationist.\]** If I were him I would publicly repudiate your misleading statements, because if I were him I would not want to be associated with your glaring errors.
+
+Your math calculations in your original post are irrelevant (I have no idea if they contain any errors as such), because they are based on a false premise.
+
+Your later statement which you made to me and/or others that back mutations are about the same in probability compared to the originals is an obvious red herring. The probabilities are not independent.
+
+And with that, I think more than enough has now been said about this topic.",1580234857
+t1_fftkrs2,t3_eupqxz,"So in larger genomes, back mutations become *more* likely?",1580234852
+t1_ffu2ldu,t3_euzput,"Its right if you lock the mutation rate at 2/genome for a genome of that size.
+
+In reality, the number of mutations is also probabilistic. In an actual organism with a genome of 10 bases and a mutation rate of .2/base, you can get more or less mutations than 2. My formulas consider that scenario. Similarity, the probability of only one would be 1/15*(4/5 + 2/15), or (the chance of one mutating back)*(the chance of the the other not mutating + the chance of the other mutating wrong). 
+
+Both your equations and mine make assumptions, so we're both wrong, but mine has less assumptions. This leads you to undershoot the odds of both mutating back by quite a lot and overshooting the odds of only one mutating back by a little.",1580234773
+t1_fftc8z2,t3_ev4n5w,"Looks like they mean the **antigen/antibody** interaction that's happening all over our cells to bring payloads to specific cells. Even though the antigens and antibodies themselves may not all be that complex, the targeted precision and vast diversity of them is argued (by the article) to be much harder to explain than the 23 times 2 chromosome molecules that are essentially identical to all our body's cells.",1580234728
+t1_fftnswd,t3_euzput,At last I think I got the numbers right. You can check it above if you're interested.,1580233142
+t1_fft6mp7,t3_euzput,"The probability of correcting a specific point mutation is (point mutation rate)/3
+
+The probability of correcting any point mutation is 1-(1-(point mutation rate)/3)^(number of sites you are calculating for a back mutation))
+
+You raise to the power of number of mutated points because the number of mutated points are indepentent events
+
+1-point mutation rate/3 is the probability that the base does correct. We are raising this to the above power because we want the probability that every base fails to have a back mutation.
+
+You subtract everything by one to get the likelyhood of at least one base correcting.
+
+The probability of all bases correcting is (mutation rate)/3^(previously mutated bases).
+
+(new calculation here) The probability of a new base entering a mutated state is (mutation rate)^(number of non mutated bases)
+
+These calculations don't consider fitness, but now you have all the actual equations.",1580225196
+t1_fftlswm,t3_euzput,"I don't think I followed that explanation. The point is, the probability is very low. I'm not entirely sure if I used the right method to arrive at the specific probability, though.",1580224031
+t1_fftje2f,t3_euzput,"There is nothing constructive about any of this, because you can't be bothered to apply any critical thinking to any of this. For you, it's ""creationist wrong, DarwinZDF42 right."" So bye.",1580223958
+t1_fft6mp7,t3_euzput,"Actually 2/30*2/30 would be right if you were to continue making this argument.
+
+It would be a combinitoral problem if you guaranteed 2 bases rather than had a mutation rate of 1/15 per base (with a convenient 30 bases for example)",1580223829
+t1_fft6mp7,t3_euzput,Actually it would be 2/30*1/30 if you were to continue making this argument.,1580223194
+t1_fft0rau,t3_eupqxz,"As genome size increases you'll have a proportional increase in mutation rate (if you used rhe same replication machinery) since mutations are tied to the chemical activity of bases and the enzymes instead of some arbitrary number. What matters most is the quantity of what you would qualify as mutated bases vulnerable to a back mutation. If you had one base in the genome, your chances are low. If you have more, your chances are higher.",1580223101
+t1_ffthi8a,t3_euzput,"Ah. So you can't be bothered to evaluate the maths, but you're still sure it's ""totally insane"".
+
+Why don't you reread the model, have a think about how independent probabilities function within it, and then ping me (or better still, Darwin) when you *can* be bothered? It might make discussions like this more constructive.",1580222102
+t1_fft9p4j,t3_ev4n5w,Me too!,1580221478
+t1_ffthdme,t3_euzput,"What I am saying needs no further explanation than what I have already given. I am not even bothering to evaluate the math you're referring to because it's based on a false premise. 
+The math I was referring to was his red herring talking about 'independent probabilities' as if back mutations were independent of the originals.",1580220685
+t1_ffth74a,t3_euzput,"That's the premise, not the maths. You said the *maths* was wrong. Are you still saying this?",1580220584
+t1_fftgxsh,t3_euzput,"His specific model is wrong because he's assuming a wrong understanding of what 'neutral' means. That's a different problem. Neutral mutations aren't really neutral functionally, they're only neutral operationally with respect to natural selection. Eyre-Walker &amp; Keightley explain this, as I quoted in my other post.
+
+His claim is a red herring, which is being wrongly applied in the case of back mutations. I have explained this over and over again, so it's enough.",1580220443
+t1_fftc8z2,t3_ev4n5w,"I think they're referring to the nucleobases (A, C, T, G) and how they key together. The language itself, you're right about.",1580220415
+t1_fftdyqm,t3_euzput,"Is Darwin's claim wrong? Or is it true, but a red herring? You can't have this both ways.
+
+&gt;It is a given that two mutations will happen. Their probability is 100%.
+
+Of course it is. If you think this is what Darwin's equilibrium model does not take this into account you just haven't read it properly.
+
+So, rather than continuing to misrepresent the argument, I suggest you rewrite his model, in a way that you think is more statistically accurate, such that it does not tend to an equilibrium.
+
+I'll copy-paste the conclusion for you to make this easier. Just copy this, tweak the bit you think is based on faulty maths and show me how that changes the conclusion. Remember, the maths is ""totally insane"", right? So this should be easy.
+
+&gt;Let’s say, what, 99% of mutations are deleterious, and only 0.1% are beneficial. And also that there is zero selection. Is that sufficiently pessimistic for creationists? And let’s work with 1000 sites.
+
+&gt;So the expected ratio at the start, in percentages, would be 0.1/0.9/99 b/n/d.
+
+&gt;But as deleterious mutations accumulate, the ratio changes, just like the simple examples above. Where’s the crossover point? About 330 deleterious mutations. That’s where beneficial become more likely.",1580220236
+t3_ev4n5w,t3_ev4n5w,Got any non-paywall versions?,1580219651
+t1_fft9p4j,t3_ev4n5w,[removed],1580219460
+t1_fftdauj,t3_euzput,"&gt; No, it totally, absolutely is true. The independent probabilities are equal. The first mutation is only a given after it has occurred.
+
+The fact that a mutation will occur is a given. This is based on known mutation rates. So in my example, we have a mutation rate of 2. It is a given that two mutations will happen. Their probability is 100%.
+
+When I said it is highly misleading, that is another way of calling it a red herring. It is true that if you look at a given possible mutation, its independent probability is the same as its back mutation, at least in theory. But the reason I said that is wrong to say that is because we are not looking at independent probabilities in the discussion of back mutations.
+
+We are asking, after a mutation has occurred, what is the likelihood that it will back mutate? And the chances of that turn out to be very low, and it's easy to see why. If you want to keep trying to prop up that sinking ship, go right ahead, you can sink right along with him.",1580217736
+t1_fftbdrl,t3_euzput,"&gt;He made the highly misleading claim that any back mutation is roughly equal in probability to the first mutation that it's correcting, and that's not true.
+
+No, it totally, absolute is true. The independent probabilities are equal. The first mutation is only a given *after* it has occurred.
+
+You can say, if you like, that this point is somehow a red herring, but you *cannot* say it is false.
+
+So, with that mind, let's go back to DarwinZDF42's original model, the one he presented in the post that started all of this. What you quoted below was part of the follow-up thread to your rebuttal, not the original argument.
+
+Which part of the *original argument* is wrong? Which part of it relies on a statistical misunderstanding and can therefore be tweaked such that the model he presents *won't* reach equilibrium?",1580217140
+t1_ffs5bh9,t3_eupqxz,You've got it.,1580216326
+t3_ev4n5w,t3_ev4n5w,"Interesting stuff, but I noticed one glaring error:
+
+&gt;  
+  Unlike DNA, this code is fiendishly complex. 
+
+What?? Maybe they meant, LIKE DNA? The DNA code is far from simple.  
+ [https://creation.com/four-dimensional-genome](https://creation.com/four-dimensional-genome)",1580216157
+t3_ev4n5w,t3_ev4n5w,[removed],1580215973
+t1_fft8y5q,t3_euzput,"Here is one of the entries in our very long discussion, written by DarwinZDF42:
+&gt;Dude. Say you have a site that's A. The probability that it mutates to G is approximately equal to the probability that that G mutates back to an A after that first mutation happens. In the second instance, the first mutation has already happened. Its probability is 1. So we're considering the two events independently, and the probabilities are approximately equal. With me?
+
+This is a complete misdirection when talking about back mutations, because we are NOT talking about independent probabilities. The first mutation, being a given, has a probability of 1 (as he has said), but the back mutation has a probability of 1/30 (in his example). He concluded their probabilities are roughly equal, but you tell me: is 30/30 roughly equal to 1/30?",1580215673
+t1_fft9ai7,t3_euzput,"Mate, once you figure out why his math is totally insane, come back to me. This was not the issue that we were disagreeing about. He made the highly misleading claim that any back mutation is roughly equal in probability to the first mutation that it's correcting, and that's not true. The first mutation is a given, but the back mutation is NOT a given.",1580215330
+t3_euhrb4,t3_euhrb4,"Wow, interesting!",1580214112
+t3_ev4n5w,t3_ev4n5w,"I love the little glimpses I get into God’s greatness that I get from things like this. 
+
+Even though my understanding is only the barest of scratches on the surface of the smartest humans’ understanding of the breathtaking complexity of this universe, their understanding of the God who made it all is an even smaller scratch. 
+
+And, because my Savior, Jesus, the Christ, loved me enough to save me from myself, I have the unspeakable privilege of being able to look at His gloriousness on display and say, with a safe smile, “That’s my Dad... :)”
+
+Can’t wait to meet Him.",1580213589
+t3_ev4n5w,t3_ev4n5w,Interesting. I like it.,1580213538
+t1_fft6mp7,t3_euzput,"&gt;That's true, the chance does go up as the genome gets more degenerated from previous mutations.
+
+Mate, that was exactly DarwinZDF42's point, which you've been saying all along was somehow mathematically incorrect.
+
+Are you still claiming Darwin's statistical model was flawed, or not? Because I'm confused right now.",1580213124
+t1_fft7egd,t3_euzput,"This is in conflict even with your own representation of Darwin's argument above:
+
+&gt;He was insistent that a back mutation was roughly equal in probability to the original
+
+This is basic statistics and it shouldn't be a topic of endless back-and-forth.
+
+You're now implying that, at some point in Darwin's original argument, he mistakenly confused the probability of any *specific* mutation happening with the probability of *any* mutation happening. Can you quote me exactly where he does this?",1580212721
+t1_fft72uh,t3_euzput,"No. The probability of the mutations would be 30/30 each time, for the first round. We don't care about ""any given"", because we're talking about the probability of back mutations.",1580210843
+t1_fft6eyo,t3_euzput,"Note what I wrote:
+
+29/900 + 1/900 = 1/30, so the probability of the back mutation in any given position in your maths is identical to the probability of **any given** initial mutation, right?",1580210426
+t1_ffsohou,t3_euzput,"That's true, the chance does go up as the genome gets more degenerated from previous mutations. But that is little consolation compared to all the damage that's getting done to the genome in the first place.
+
+Now, I was wondering, should I change my math to show the probability for correcting both mutations as 2/30 * 2/30 (since there were two mutations), and the probability for correcting one of them as 2/30 * 28/30?
+
+I woke up this morning still thinking about this math problem :)",1580209813
+t1_fft0ksf,t3_eupqxz,See my other comment about roulette.,1580209615
+t1_fft0rau,t3_eupqxz,"The bigger the genome gets, the less likely it becomes, just like you get unluckier at roulette the bigger they make the wheel. A second variable is mutation rate (the number of balls in roulette). But the rate of mutations is so low compared to the size of the genome that it doesn't matter (100 mutations compared to 3 billion base pairs).",1580209596
+t1_fft52l9,t3_euzput,"No, because the mutation rate is known to be two, so the probability that there will be two mutations of some kind is 1 (100%).",1580209511

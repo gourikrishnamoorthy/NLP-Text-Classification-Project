@@ -1,0 +1,305 @@
+parent_id,link_id,body,created_utc
+t3_evf5pp,t3_evf5pp,"Thinking about it, I tend to use the word ""pressure"" in the context of ""evolutionary pressure"", and selection is one such pressure. It's not a decision I ever consciously made, it's just kind of how my way of writing/speaking about evolution has developed.",1580261759
+t3_evf5pp,t3_evf5pp,"Sounds like he's just oversaturated with the phrase so he's going out of his way to make his life a little easier. I'd've humored him, but I think that it's not as big a deal as he's making it in the real world.",1580260404
+t3_evf5pp,t3_evf5pp,"It’s in the lexicon. Use it or don’t. I replaced words like biological, physiological with biologic and physiologic after a few discussions with a professor I respected, but not many people care",1580259991
+t3_evf5pp,t3_evf5pp,"I tend to use it when I want to imply there is cause of selection that tends leads away from certain alleles. 
+
+For example prey that uses running away to protect against predators will have a selection pressure to stay fast and nimble. Any mutations that slow down the prey will be selected against.",1580259984
+t3_ev5ym3,t3_ev5ym3,[deleted],1580259938
+t3_ev3xlw,t3_ev3xlw,[removed],1580257294
+t1_fft5jep,t3_ev3xlw,"You'd need to show that those behavioral changes do not occur elsewhere (i.e. it's not just migrants coming in) and, more importantly, you'd need to show that those behavioral changes are genetic, not environmentally induced.
+
+It's not impossible that you are right, but for now it's an evolutionary just-so story.",1580257049
+t3_ev89ja,t3_ev89ja,"&gt;happen as needed
+
+Actually they happen randomly in the gametes.  This builds diversity in the population over time.
+
+&gt;how is its body able to ""understand""
+
+It doesn't.  Birds with longer beaks are more likely to survive and pass on the trait to offspring in this case.  In each successive generation, the shorter and shorter beaked individuals are less represented in the population.  Over time, this simultaneous process of increasing diversity with differential survival/reproduction results in a shaping of the representative population.  That's the oversimplified version, but in a nutshell, this is how adaptive evolution takes place.",1580256996
+t3_ev5ym3,t3_ev5ym3,"*Species.  The word ""species"" is both singular and plural.",1580255983
+t3_ev89ja,t3_ev89ja,"&gt; The consensus is that mutations happen as needed to adapt to the environment. 
+
+That is not what happens at all. Mutations just happen. If the organism with the mutation lives long enough to reproduce, then some of its offspring will inherit the mutation.",1580247631
+t3_evbn98,t3_evbn98,Sounds like yet another standard evolutionary Just-So story.,1580246291
+t1_ffu105f,t3_eus8n4,You mean the Eucalyptus that sheds its bark to produce the perfect tinder? That one?,1580235503
+t3_ev89ja,t3_ev89ja,"Simply put, every characteristic has a distribution with an average and a spread. So say beak length is 5 cm, with a +-10% spread. So there are always birds with a beak of 4,5 cm and 5,5 cm. Now, if a longer beak is beneficial, the 5,5 cm beak will become the new norm, but more importantly, the new average, simply because the birds with a 5,5 cm beak will breed and survive more successfully than the others.
+
+But, the +/- 10% spread does not go away, so at a certain point, the average is 5,5 but the spread is from 5 to 6. If a longer beak is still beneficial, the average will move up again, but again with the spread. This continues until it becomes self limiting, basically when the average becomes the optimum.",1580234174
+t3_ev89ja,t3_ev89ja,"Not only the beneficial mutations happen. All sorts of mutations happen. Birds are born with shorter beaks sometimes and longer beaks other times.
+
+If longer beaks to reach worms deeper in a tree hole are more beneficial then the ones who happen to be born with longer beaks will get more worms, allowing them to survive longer and produce more offspring, who will inherit their long-beak mutation. The birds with shorter beaks won't get as many worms, so their short-beak mutations will tend to go extinct. This is natural selection.
+
+Adaptation is the combined process of random mutations followed by natural selection like this.
+
+(Evolution is sometimes more complex than adaptation though. What if those short-beaked birds happened to be born in a forest that has a lot more worms overall? Even though they could have gotten *even more* if they had long beaks, they might still get more than the long-beak birds in a forest with fewer worms. This can make the short-beak mutation spread more than the long-beak mutation even though it's not ""adaptive,"" just because of the luck of living in a forest with a lot of worms. This kind of evolution is called genetic drift.)",1580232985
+t3_ev89ja,t3_ev89ja,"There are 3 conditions that have to be met for evolution through natural selection to happen.
+
+First, there needs to be variation in the trait (in your example beak size, meaning that even birds within the same species differ slightly in how long their beaks are).
+
+Second, the trait has to be heritable. Meaning that parents with slightly longer beaks will also have offspring with slightly longer beaks.
+
+Third, the differences in the trait have to result in fitness differences.
+
+Going back to your example. In your population some birds will have slightly longer beaks than others (variation) and they will be able to eat food hidden in tree holes, that is not accessible for the birds with shorter beaks. More food means they have more energy to invest in survival and reproduction (increased fitness) and therefore will have more offspring compared to the other short-beaked birds. Their offspring will inherit the longer beaks (heritability) resulting in a population with more long-beaked birds in the next generation.
+
+No ""intention"" or ""understanding"" is therefore needed.",1580232658
+t1_ffu0lh0,t3_ev89ja,"And then the birds who happen to get good random mutations have easier life and thus more likely to reproduce, increasing the likelihood of their kids to also have that feature, and the ones with short beaks are less likely to survive and reproduce, suppressing the passing of the bad trait to the next generation. Okay now it's all clear.",1580232457
+t3_ev89ja,t3_ev89ja,"I think the idea of mutations leading to adaptation (while mostly correct) can be a little misleading.
+
+Think instead about a population of birds. Each bird is slightly different from the others. One might have slightly longer wings than the rest, one might have longer legs, one might have a particularly long beak...If you measure traits like these in a population of organisms, you will find this kind of variability and that is what natural selection acts upon.
+
+It's not really plausible that this one bird with the longer beak just happened to have a mutation that made his beak slightly longer than the rest. Rather, beak size is probably the result of an interaction of several genes. The particular combination this bird received came from his parents, which they got from their parents...so through reproduction, new combinations of these genes are always popping up. And in those genes is a whole history of mutations that occurred all along the lineage leading up to that bird.
+
+So, natural selection acts on the existing variation in a trait. That variation comes from individual differences in genetics that come about from mutations and the mixing and matching of genes that occurs during reproduction.",1580232427
+t1_ffu04s1,t3_eus8n4,"Yeah the Eucalyptus tends to be rather fireproof, however the fires last december were vigorous enough to reach to the tops of many more that usual.
+
+with the recent fires actually destroying their staple food source, they are in serious trouble  until those trees can regrow again in affect regions.",1580232157
+t3_ev89ja,t3_ev89ja,"You're looking at this the wrong way.  The bird doesn't ""need"" a long beak. If it couldn't eat with the beak it has, it would be dead.
+
+But a mutation inherited from a parent may give it a longer beak, by random chance. Now it can get more food, because it can reach food that was out of reach before. This gives it an advantage over other birds that can only eat food in reach of their short beaks.",1580231899
+t1_fft36el,t3_eus8n4,"Australia is a continent because it sits on its own tectonic plate.
+
+Yes koalas are not fireproof, but Australian forests are evolved to catch fire, so koalas, like all other native species have to adapt. And they have. By breeding a lot.
+
+The koala is not ""functionally extinct"". It has survived Aussie wildfires for millions of years.",1580231580
+t1_ffthqwu,t3_ev5ym3,[Here](https://www.academia.edu/3374175/Doubting_Dmanisi) is the article,1580223662
+t1_ffszy5w,t3_eus8n4,"It goes by both, although the anthropocene extinction is often used to refer to more recent extinctions, while the holocene refers to every extinction (not including background extinctions) within the last 100.000 to 200.000 years. There's no clear definition of when an extinction event is a mass extinction, so it can be hard to separate the events from each other and know when one ends and another begins.",1580223130
+t3_etyogo,t3_etyogo,"There's a book waiting on my Kindle called ""the case against reality"" and the central idea is that most of the time oversimplifying the world, thinking about it in the ""wrong"" way, is quicker than thinking about the world in a way that maps even closely to how the external world actually behaves. 
+
+You can get through your day hunting and gathering, or you can model the Schroedinger equations relating to the interactions of the particles in your body and surroundings. Evolution favoured getting through the day.",1580221499
+t3_ev5ym3,t3_ev5ym3,"Do you have a link to the article, the conference or the researchers that agree with the premise?  A quick Google search rendered nothing relevant.",1580220868
+t3_ev5ym3,t3_ev5ym3,"Species is a somewhat loose term. A species can be told appart by morfology, but that'd make hares and rabbits mostly the same species (they're not) and huskies and terriers diferent species (they're absolutely not)
+
+Species can be determined by which groups can breed togeter. But it's hard to check if a skeleton had a particular taste for another kind of skeleton.
+
+Usually species are distinguished by statistics. If a group usually interbreeds and shares genes and bodyplans and acts the same, they're mostly the same species.
+
+So, what was Erectus? If you found one alive today, could you have kids with them? Hard to tell. We know we did mixt with neanderthals sometimes, and maybe some other more.
+
+Erectus was older than them. By time alone the DNA would probably not be compatible. And you'd clearly see them like very, very different humans than sapiens, probably making it hard to get along",1580220621
+t3_ev3xlw,t3_ev3xlw,"This made me think of my own observations, because I think that I witnessed [wasp evolution around my home](http://bookscrounger.com/domesticated-wasps/).  Some of my colleagues have offered other solutions, but I have encountered this placid behavior with more than one nest of wasps in our neighborhood.",1580208240
+t1_ffrfxb9,t3_eus8n4,Unless you consider Australia an island: the koala is considered functionally extinct after its food burned down in the last month,1580204611
+t1_ffsfnq9,t3_eus8n4,"I heard it as the Anthropocene extinction, but it must have multiple names.",1580199789
+t1_ffrfxb9,t3_eus8n4,Harlequin frog and another ton of rainforest amphibians.,1580199147
+t1_ffrfxb9,t3_eus8n4,Paradise Parrot,1580193173
+t1_ffsfnq9,t3_eus8n4,"The fact that it says ""may be"" just makes the whole thing that much worse to ponder.  If you can't even admit it, how do you begin to try to do anything about it?",1580187313
+t1_ffs0n2f,t3_eus8n4,"&gt; Because in no sense is this ""Sixth Extinction"" comparable to the other five
+
+You're right, the holocene extinction has an extinction rate 10-100 times higher than any previous extinction event.
+
+&gt; Because extinctions are the consequence of Evolution
+
+Yeah, that's called the [background extinction rate](https://en.wikipedia.org/wiki/Background_extinction_rate), and we are currently at 100-1000 times that, depending on kingdom and phylum. The fact that extinctions happen naturally doesn't mean every extinction is natural.
+
+&gt; Because this ""Sixth Extinction"" is yet another fake panic designed to enrich NGOs
+
+Prove it. Prove all of published, peer-reviewed science wrong. Prove your conspiracy-theory, or keep it to yourself.",1580182054
+t1_ffrpf1w,t3_eus8n4,"Every single invasive species was introduced to their environment as a result of human activity. That is the definition of invasive. As such, every single extinction as a result of invasion is part of the holocene extinction.",1580180846
+t1_ffrog9y,t3_eus8n4,"An invasive species is by definition a species, which has been introduced to a naive environment it shares no evolutionary history with, through intentional or unintentional human activity. VirtualMountain has no idea what he's talking about.",1580180741
+t1_ffsfnq9,t3_eus8n4,"10,000 years.",1580180702
+t3_eus8n4,t3_eus8n4,"""A lot of biologists think that we may be experiencing the sixth mass extinction"" is like saying ""A lot of doctors think broken bones are bad for you"".
+
+We are in the middle of a mass extinction. It's called the holocene extinction, it has been going on for at least 100.000 years and there's no question whether it exists or not. Suggesting otherwise is dishonest.",1580180543
+t1_ffrfxb9,t3_eus8n4,"Take your pick:
+
+https://en.wikipedia.org/wiki/Category:Species_made_extinct_by_human_activities",1580179567
+t1_ffs7zdx,t3_eus8n4,"Interesting how everyone else on this thread seem to get it. It’s almost like some people are in denial, probably from bias.",1580176130
+t1_ffrr0t2,t3_eus8n4,"Huh, almost like our unabated use of resources and wastes are causing a problem for wildlife. Weird.",1580175380
+t1_ffs0n2f,t3_eus8n4,"&gt; Extinctions happen all of the time and so does speciation.
+
+Yep, they do.
+
+I think I'll light your house on fire. Things burn all the time, right?",1580175192
+t1_ffs65wl,t3_eus8n4,"**Holocene extinction**
+
+The Holocene extinction, otherwise referred to as the sixth mass extinction or Anthropocene extinction, is an  ongoing extinction event of species during the present Holocene epoch (with the more recent time sometimes called Anthropocene) as a result of human activity. The included extinctions span numerous families of plants and animals, including mammals, birds, amphibians, reptiles and arthropods. With widespread degradation of highly biodiverse habitats such as coral reefs and rainforests, as well as other areas, the vast majority of these extinctions are thought to be undocumented, as the species are undiscovered at the time of their extinction, or no one has yet discovered their extinction. The current rate of extinction of species is estimated at 100 to 1,000 times higher than natural background rates.The Holocene extinction includes the disappearance of large land animals known as megafauna, starting at the end of the last Ice Age.
+
+***
+
+^[ [^PM](https://www.reddit.com/message/compose?to=kittens_from_space) ^| [^Exclude ^me](https://reddit.com/message/compose?to=WikiTextBot&amp;message=Excludeme&amp;subject=Excludeme) ^| [^Exclude ^from ^subreddit](https://np.reddit.com/r/evolution/about/banned) ^| [^FAQ ^/ ^Information](https://np.reddit.com/r/WikiTextBot/wiki/index) ^| [^Source](https://github.com/kittenswolf/WikiTextBot)   ^]
+^Downvote ^to ^remove ^| ^v0.28",1580174116
+t1_ffs0n2f,t3_eus8n4,"Strange how thousands of biologists disagree with you, not to mention Nature, Ecology, PlosOne, Science, not to mention practically every science-related peer-reviewed journal on the planet. 
+
+The current extinction rate is happening thousands of times faster than the background extinction rate and tens to hundreds of times  faster than any other mass extinction event. 
+
+https://en.wikipedia.org/wiki/Holocene_extinction is a good place to start, but don't stop there--actually read some of the scientific journals from which this article draws its facts.",1580174109
+t1_ffrfxb9,t3_eus8n4,"Passenger Pigeon and Carolina Parakeet are two that cone immediately to mind.
+
+Baiji River Dolphin, Caspian Tiger, Massachusetts Heath Hen, Golden Toad, Caribbean Monk Seal, Great Auk, to name just a tiny few more non-island Species.",1580173744
+t1_ffryt95,t3_eus8n4,"Because in no sense is this ""Sixth Extinction"" comparable to the other five, and those happened before mankind ever existed.
+
+Because extinctions are the consequence of Evolution by process of natural selection and have happened in all epochs. Extinctions happen all of the time and so does speciation.
+
+Because this ""Sixth Extinction"" is yet another fake panic designed to enrich NGOs and taking limited resources away from situations and events, both human and environmental, which need urgent attention.",1580170259
+t3_euwtwv,t3_euwtwv,"Theoretically, yes we could evolve to no longer have a foreskin.  But circumcision would have nothing to do with that.",1580169092
+t1_ffrpf1w,t3_eus8n4,"It may be relevant that the notion of the Sixth Extinction typically includes the notion that *human activity* is a significant driving force for it. Why, then, do you make a point of *disregarding* extinctions for which human activity *definitely is* a significant causative factor?",1580169016
+t3_euwtwv,t3_euwtwv,"No because DNA is passed through gametes, not through somatic cells. August Weismann tested this across many years by chopping off the tails of mice and breeding them and the offsprings tails were never shorter, and we now know that’s because DNA is passed on through sperm and egg, not through other body cells.",1580168963
+t3_euwtwv,t3_euwtwv,"Since snipping the foreskin does not modify or involve an inherited trait, I doubt it.  Of course, there's the whole epigenetics thing.",1580168948
+t1_ffrto5a,t3_etnwn5,Welp here we go again. You got an A+ but without good writing? That’s an intersection school you’re attending.,1580167925
+t1_ffrvx5h,t3_eu2kgf,"Desktop link: https://en.wikipedia.org/wiki/Homo_sapiens
+***
+ ^^/r/HelperBot_ ^^Downvote ^^to ^^remove. ^^Counter: ^^295032. [^^Found ^^a ^^bug?](https://reddit.com/message/compose/?to=swim1929&amp;subject=Bug&amp;message=https://reddit.com/r/evolution/comments/eu2kgf/full_evolutionary_tree/ffrvx5h/)",1580167069
+t3_eu2kgf,t3_eu2kgf,"https://phylogenyexplorerproject.com - a more advanced navigable online phylogeny still in the making. 
+
+https://en.m.wikipedia.org/wiki/Homo_sapiens - going up successive clades above this provides a few others not found on the other.
+
+
+https://tree.opentreeoflife.org/opentree/argus/opentree12.3@ott93302 - this includes 2.3 million species and is one of the most comprehensive",1580167062
+t1_ffrla11,t3_etnwn5,That's fair. Don't need intelligence when you can just pummel your predator into tomorrow,1580165626
+t1_ffrq0iu,t3_etnwn5,"Not particularly, because my writing ability is pretty horrible, but my usage and applications is good enough for the teacher's standard I guess. I'll basically give a rundown of key aspects my paper examined however, and you can feel free to critique it as you would. The whole paper was brain size to intelligence, so it wasn't specific to humans and apes in particular, as I also examined instances where humans may have a larger or smaller part of the brain, being  gray matter in the prefrontal area, due to exposure of lead in childhood. I also mention the size of crustaceans having very large brains in proportion to their size, but largely not being intelligent creatures. In it I found that humans actually have a brain size much larger than it should be. Part of my paper examined the diversion of humans from apes, being that scientists estimate 150 million neurons were being added every one hundred thousand years, which if you decide to do how many were being added a year, which I'm not sure if there would be a difference, besides maybe intelligence being estimated to be genetic, and that each generation inherited an exponential difference of neurons. While humans brains were evolving, the volume of the brain tripled, having an approximate 1400 cubic centimeters, which is what we modern humans have today. Our white and gray brain matter also grew in size and we developed more complex cortical folding. Great apes have an average brain size sitting at around 350-450 cubic centimeters, while still displaying a similar brain organization pattern. This isn't word for word, and I'm largely paraphrasing because I can't copy and paste my paper here, because it is on my computer, not my phone, but this is the part where I examined the diversion of our intellectual diversions. And examining the cranial vault of Neanderthal skulls, scientists determined they had a 10% larger brain that humans do, but this was largely due to their incredibly large size, and needing a larger brain to function, so it quite possibly could have been smaller by a little bit, comparing pound for brain size. Humans also have a brain 3 times larger than it should be when you compare trends in the animals kingdom, so we have a larger brain in general. So I largely understand why our brains are different from our tree dwelling cousins,but what I don't understand is how so far humans are the only ones that gage developed an evolutionary stem of intelligence, seeing as how apes have existed far longer than us, and we've seen many traits evolve separately, being sight, as it is estimated to have come into existence in 5 separate times, being that 5 different organism would independently to grow sight.",1580165586
+t1_ffrqny4,t3_eus8n4,Killed by pollution and overfishing. What a shame.,1580163902
+t1_ffrfxb9,t3_eus8n4,The Chinese paddlefish is a recent one.,1580163674
+t1_ffhl5h6,t3_etnwn5,Five whole pages? Double spaced is literally 2.5 pages. That must have been deep research.,1580163264
+t1_ffrog9y,t3_eus8n4,"Very few of them. But since you ask, the Moa was also killed by an invasive species.
+
+But we're not talking about island species with which are maladjusted for invasive species, we are talking The Sixth Extinction Event^TM
+
+So what species have become extinct? (I can think of the Northern White Rhino, made extinct by Chinese medicine), but not a Great Extinction Event where lots and lots of adjacent species have died more or less side-by-side.",1580162890
+t1_ffrmruq,t3_eus8n4,"How many ""invasive species"" *didn't* get to be ""invasive"" cuz of *human activity* helping them to move into the new territory?",1580162291
+t1_ffrkl9n,t3_eus8n4,"Because island-based species are usually badly adapted to predation from invasive species. For example, the Dodo.",1580161272
+t1_ffrjxso,t3_euro8b,"Thank you.   
+I wonder why he says that though. He is convinced of it, as he stated it a couple of times. And he's a biologist, he must be aware of what you just said!   
+I mean, he does give too much credit to stuff such as the ""recapitulation theory"" and the triune brain, but this thing about the ear seems to be plainly and without a doubt wrong. Duh!",1580160889
+t3_etnwn5,t3_etnwn5,"On the other hand, both of them are much, much, stronger than you, and could easily throw you across a room. Intelligence is not the only successful adaptive strategy.",1580160365
+t1_ffrjxso,t3_euro8b,"Also, can confirm that the homologs to the three inner ear bones are still very much part of the jaws of ostariophysan fishes.",1580160306
+t1_ffrfxb9,t3_eus8n4,"Why the ""not island-based"" qualification?",1580159949
+t3_euro8b,t3_euro8b,"He is completely wrong, but it's an easy enough mistake to make. The three bones of the middle ear are commonly called the ""auditory ossicles""  (i.e. the small bones involved in hearing), whereas the Weberian ossicles are also small bones involved in hearing. 
+
+The middle ear evolved from three bones found in the jaws of fishes - the articular, the quadrate, and the hyomandibula, and this occured after tetrapods diverged from other fishes. 
+
+The Weberian apparatus, on the other hand, is made from modifications to the first four vertebrae. It's also unique to one group of ray finned fishes, the Ostariophysis. This group (and therefore the Weberian apparatus) didn't evolve until *after* tetrapods had split off from the rest of fishes, so these two systems evolved in very disparate lineages.",1580159554
+t1_ffp4khm,t3_etrydn,"Well, there are debate subs if you don’t agree and there are scientific papers if you want to learn more. In either case you apparently didn’t understand what was being presented here. To get a better picture the entire series from beginning to end provides a better picture on what you’re asking, if you actually want to know, but for a general overview- brains are useful at all in multicellular organisms that are mobile - so anything more advanced or like us than a worm. Then for a more advanced brain like those found in fish it comes down to predator-prey selective forces so that prey learn how to avoid being eaten while predators learn how to not starve to death. More builds on this for thermoregulation and social structure within most mammals and then problem solving and more advanced social structures select for higher order thinking skills. That’s where it takes other mutations to get a bigger brain than chimpanzees still have and that’s discussed in this video.",1580159145
+t1_ffrgneg,t3_euro8b,"Right, makes sense. Thanks!",1580158403
+t3_euro8b,t3_euro8b,"Since the Weberian apparatus first appears in a ray-finned fish from the Cretaceous, and tetrapods derive from fleshy-finned fish from the Devonian (some 260 million years earlier), the claim sounds a bit dubious to me. 
+
+The mammalian inner ear evolved from jaw bones, as you stated.  There's a good discussion in T.S. Kemp's *Mammal Like Reptiles and the Origin of Mammals*.",1580157676
+t3_eus8n4,t3_eus8n4,"OK For this sixth mass extinction - name a species, which is not island-based, which has gone extinct.",1580157292
+t1_ffq58an,t3_euczqp,"&gt; We don't know if humans are blank slates molded by their culture or if genes and epigenetics (biological evolution) plays a large role in cultural evolution.
+
+Actually, we do. They aren't. But that is not relevant to this discussion, so I'm not sure why you are bringing it up.
+
+&gt; Look up generational epigenetics.
+
+[facepalm]
+
+Oh, that's why. You're an idiot. 
+
+We're talking about *his perception* of major societal changes that have occurred over the last *few years,* not changes that have occurred over a generational timeframe. As far as these changes exist at all (and for the most part they don't, the dude is delusional), they are just simple cultural changes that have nothing to do with biology other than a bunch of boomers getting old and throwing temper tantrums.
+
+&gt; It's pedantic imo when you shut down a person who has kinda broken English from thinking about science in the way they learned it without helping them understand why they were wrong. It's condescending
+
+The guy's problem is not his use of language. The guy's problem is that he's a fucking idiot. He's arguing that Vienna Austria, one of the safest cities in the world, is a hot bed of corruption, murder and rape. He's claiming ""raping and murdering of ex wifes increased more than 200% because of the pro-islamic regime and due to those people getting no punishment"". Seriously, at what point is it OK to condescend to someone who is so flagrantly out of touch with reality?
+
+But regardless of the *reason* he is wrong, **he's still wrong**. Politely pointing out that he is wrong, which is all that he did, is not ""pedantic."" 
+
+The only one being pedantic is you, which is ironic given that you are completely wrong about the thing you are being pedantic about. You are desperately trying to shoehorn biology into the discussion so you can avoid admitting you are wrong. It's truly pitiful.",1580154681
+t3_eus8n4,t3_eus8n4,What a time to be alive,1580152419
+t1_ffq4vep,t3_eult95,Awww cmon why do you gotta make it political? :(,1580152189
+t1_fffpdks,t3_etcuy3,"Fantastic answer! I stumbled upon this subreddit (and this question) as part of Reddit’s recommendations and it clarified a question my layman mind has pondered for a couple months now. Thank you! Also thanks to OP for asking it, and I/vanderZwan for the addition. As an aspiring author who can’t really afford professional consulting on all the various areas of a sci-fi novel (but wants it to adhere to what we know) people who so generously and eloquently share their knowledge makes my hope for humanity grow about 9000 points.",1580145779
+t1_ffhsg05,t3_etcuy3,"We are talking about *appearances* related to ""convergent evolution"", not ""a wide evolutionary perspective"".  Yes, an oak tree and a dragonfly have related biochemistry, but they have radically different macroscopic structure.  So their similarities are due to homology, the exact opposite of convergent evolution that OP was asking about.",1580145351
+t1_ffpukyo,t3_euczqp,Thank you.,1580138243
+t3_eult95,t3_eult95,"So swamp sparrows listen and think:
+
+“OK Boomer”",1580134689
+t3_eult95,t3_eult95,Ho do they test it ??  Rick‘ s translator and then : WTF dude ! She sounds like 20 but looks like a MiLF ...  .. I would LOVE to make an egg with her.,1580129032
+t1_ffp392g,t3_eufi8l,"In wild species that have an established social order and evolutionary history that involves incest there are offnen no genetic issues other than lack of genetic diversity.
+
+Inbreeding depression and the expression of deleterious genes tends to be mainly when a portion of a larger population forced into an inbreeding situation (as is the case with domestic animals).
+
+In the wild small populations that have had been inbreeding for a long time (many generations) have often weeded out those bad genes.  There is still the issue of a lack of generic diversity though, which can be a problem if a disease enters the population or if environmental conditions change resulting in an inability of the species to evolve to meet the new environment due to said lack of diversity.
+
+My current work is with a nearly extinct primate species that has been isolated on one small island for the last 12,000 years and during that entire time would have had a small population (although *much* larger than it is today).",1580128130
+t1_ffpgjua,t3_euczqp,"Since the evolution of Homo Sapien Sapiens the human brain has not evolved. There has been genetic variation as there is with all animals but this is not a universal change across the species to be considered genetic change in the species homo sapiens.
+
+Culture changes quite dramatically through zero impact from biology. Cultures are these constructs we have created that are almost creatures in themselves with their own changes and selection processes. The second world war had a profound effect in culture but it has no relation to any genetic changes in the human species. If you were to compare human brains from not to those of 1930s you will find no difference other than the standard genetic variance of a species.
+
+OP omits from his rambling the biggest culture changes of recent times, the rise of computers and the Internet. Both of these occur in times of peace and stability. Computing in a good example as we can see how big change is made of a series of minor changes and on the working off the back of previous advancements.",1580126679
+t3_eufi8l,t3_eufi8l,"https://en.wikipedia.org/wiki/Inbreeding_avoidance including a very cute picture of a hamster: ""Golden hamsters have been shown to use their own phenotypes as a template in order to differentiate between kin and non-kin via olfaction"" - in other words they avoid mating with hamsters that smell too similar to them.",1580123806
+t1_ffpukyo,t3_euczqp,"It is pedantic imo when cultural evolution is apart of the larger nature vs Nurture argument. We don't know if humans are blank slates molded by their culture or if genes and epigenetics (biological evolution) plays a large role in cultural evolution. 
+
+Look up generational epigenetics.
+
+It's pedantic imo when you shut down a person who has kinda broken English from thinking about science in the way they learned it without helping them understand why they were wrong. It's condescending",1580121185
+t3_eult95,t3_eult95,Is this the same mechanism that educated voters use to determine that Donald Trump sounds like a 6 year old throwing a tantrum?,1580120608
+t1_ffpol0t,t3_eu2kgf,"The fact that OToL lists its sources is definitely a major plus and leaves OneZoom more suspect (Though from the fact that many of the date values OneZoom gives are suspiciously similar to those of TimeTree, I would guess that it uses a similar method of aggregation.). I also like how in many areas it provides both supporting and conflicting papers for the arrangement of taxa shown.
+
+I understand your point that identifying which taxa diverged first in a particularly ancient lineage is very difficult, but I’m sure you would agree that (at least in some instances) it is very important to get right. Whether ctenophores or poriferans diverged first has tremendous implications on how the earliest animals evolved. A similar example of a current dispute in how the topmost clades within a taxon diverged can be found within Dinosauria, where the relationships between ornithischians, theropods, sauropodomorphs, etc. may have a huge impact on whether the earliest dinosaurs had integument and/or air sacs, and thus may consequently inform us about the evolution, lifestyle, and physical properties of their descendants. It is for this reason that I took the ctenophore-poriferan relationship in OToL so seriously, especially as it does not even consider the topic a matter of debate (AFAIK, no conflicting sources are cited).
+
+I feel that the best method of dealing with conflicts for any biota-wide phylogenetic tree project would be to add alternative (and likely but yet-to-be-confirmed with further research) placements for taxa in dotted lines, with the shade of the text getting ever lighter with weaker support before ceasing to exist upon crossing a certain threshold (e.g. Eocyte/Asgard hypothesis = dark grey, Ornithoscelida = lighter grey, Heilmann’s bird-thecodont hypothesis = not on chart). However, this may be hard to implement (especially for something like OneZoom) and has the potential to be a confusing mess in many heavily debated areas.",1580107423
+t1_ffp7j5g,t3_euczqp,"&gt; This is definitely not an excuse but he went low, so I went low. Glad you recognized that.
+
+Wait, how is saying ""You're talking about anthropology not evolution"" ""going low""? You called him a pedant for making a 100% accurate, 100% reasonable, 100% non-pedantic distinction. You understand that ""cultural evolution"" falls under the study of anthropology, not biology, right?
+
+He made a good point, you responded by being a douche. Pure and simple.",1580106285
+t1_ffpcf8f,t3_euczqp,"You said “epigenetics are genes” which isn’t true.
+
+Also, they’re not “getting plasticized” that means literally nothing. The phenotype is plastic, meaning it can change.",1580106283
+t1_ffjp8je,t3_etyogo,"I don’t think it is reasonable to assume it is a prerequisite for intelligence. More likely, it’s the other way around. Death is simply extra scary if you darn well know it’s coming for you. Your comparison with autistic people is rather ad hoc as well, but I guess it’s something that could be tested.
+
+Much more likely however is that irrational thoughts if an afterlife are the side-effect of how intelligence has in my OTHER aspects improved our survival. However reasonable the idea that you will be invaded by another tribe, it doesn’t happen every night. Yet, a fence will protect you every night. However reasonable the germ theory of disease, it’s not like we actually always wash of pathogens when we wash our hands. It’s just better to wash our hands irrationally frequent just in case. 
+
+Our brain is in the do-whatever-it-takes-to-stay-alive business, especially since humans are pretty useful for the family and tribe even after reproductive age. When pondering about death, many people tend to “wash-their-hands-just-in-case”, like in the example above.",1580106273
+t1_ffpfwj7,t3_euczqp,"&gt; His use of the US was just an example, you were pedantic on that point and ignored the valid point that the current state of conflict is not a recent development.
+
+Then you are the one misreading, because I did not disagree with or ignore that point. I completely agree that it is not only a valid point but an important one. In fact it's not just that the state of conflict is not recent, the OP is objectively wrong in his claim. The world is more peaceful today (using a broad definition of ""today"") than it has ever been at any point in it's history. 
+
+All I disagreed with was the framing the site the other poster linked to used, and that he repeated. It was misleading. Why should we exaggerate and say that ""the US has been at war for 222 of it's 239 years"" when that is really not true? They are using a highly misleading definition of ""at war"", and they consider even a single military engagement as being ""at war"" for an entire year. The real amount of time the US has been at war is bad enough, so why make it sound even worse than it really was?
+
+Was I being pedantic? I don't know, maybe. But it seemed to me that the data was wrong in an important way, so I pointed it out. The fact that I agree with the conclusion doesn't mean I agree with sitting back and letting someone make a misleading claim. 
+
+(And to be 100% clear: I am not saying the other poster was intentionally misleading. Hell even the person who made the other site probably wasn't *meaning* to be misleading. But the end result *was* misleading. Lying with statistics is still lying.)",1580105748
+t1_ffp94kf,t3_euczqp,"&gt; The link was clearly showing 55% increase of crime in austria.
+
+God you're an idiot. It was *your link* and you didn't even bother to read it. What the site *actually* shows is ""These data are based on **perceptions** of visitors of this website in the past 3 years.""
+
+&gt; The fuck you know mate 
+
+The fuck I know is how to fucking read. 
+
+&gt;I am sorry but the links you sent me are not trustable. Actually, I don't trust anything the western media tells us, even mu own country.
+
+Yes, you only believe your own delusions. 
+
+Goodbye.",1580100673
+t1_ffpfjtl,t3_eu2kgf,"TimeTree is definitely best for retrieving pairwise divergence estimates, not trees. One thing I like about the OToL project is that they published papers explaining their approach to reconciling parts of the tree where there was discord, it's probably the most transparent Tree of Life browser yet.
+
+And I don't think that judging OToL by the ctenophores/sponges placement is a good barometer. The ""who diverged first in extant metazoans"" question is an absolute clusterfuck. It's an incredibly deep divergence and there are likely long branch attraction problems. Plus any time we try to do genome-scale phylogenetics, we have model misspecification issues, and when we throw in the half a billion years of divergence that only gets worse. So when the result one gets seems to largely boil down to what model is used, in a situation like this I think there's a lot of room for skepticism.",1580100442
+t3_eufi8l,t3_eufi8l,"The Major Histocompatibility Complex (MHC) is apparently detected by odor, even by humans. 
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2519788/",1580099874
+t1_ffpf2fx,t3_euczqp,"First of all, it's definitely not the case that there has been no genetic changes affecting the human brain or behavioral traits for 100,000 years. I mean, there's obviously standing variation in the genetics of many behavioral traits for one. Any frequency changes among those variants are evolutionary. It's also likely that some variation has become fixed and other new variants have been introduced during that time as well. I don't know exactly what change you're referring to that you think happened 100,000 years ago, but it sounds pretty arbitrary.
+
+Second, even if there was no genetic change, culture would still change since it's an interaction between genetics and environment. It's similar to any other genotype x environment interaction studied in population genetics in that genetics, environment, and the interaction effect between them represent three separate terms and you can't understand the changes without accounting for all three.",1580094506
+t1_ffp7l04,t3_euczqp,"His use of the US was just an example, you were pedantic on that point and ignored the valid point that the current state of conflict is not a recent development.",1580094048
+t1_ffp80bo,t3_euczqp,"&gt; You mean the medieval wars ?
+
+No I mean the millions of wars that have occurred from the first civilisations until the first World wars, yes including medieval warfare. I think you'll find 99% of wars brought no good cultural change or technological advancement.
+
+&gt; But we can talk about crusades which, at the end ended with renaissance and choosing science over religion
+
+What??? Where did you learn history? Crusades ending with renaissance? Err no. Renaissance ending with choosing Science over religion, errrr no. You do know that the Renaissance was followed by the bloodiest religious wars Europe had ever seen. The 30 years war? Heard of that, it happens **after** the Renaissance. You seem to have the Renaissance confused with The Enlightenment that came much much later.",1580093882
+t1_ffp2z54,t3_eu2kgf,"I totally agree with that judgement, and I would advocate everyone exercise caution on its conclusions (as well as those in the other sources) and cross-check the scientific literature on the specific taxa they are looking for. 
+
+That said, I do not see how it is measurably less reliable than the sources given by others. The Open Tree of Life, for example, recovers Ctenophores as the basalmost group within Metazoa despite the fact that the vast majority of studies do not support this. Additionally, while TimeTree works quite well in providing dates for the estimated divergence of clades, its attempts to reconstruct phylogenetic relationships along those lines (especially those of larger groups with a multitude of rapidly diverging lineages, such as Aves and Eukaryotes) often produce results that conflict with virtually every recent study.",1580093798
+t1_ffp89r6,t3_euczqp,"Our minds have not changed.
+
+Cultures have changed but this change occurs more from cultural integration than war. I don't think it's right either to refer to cultural change as evolution as these are non permanent localised changes really.",1580093568
+t1_ffp92xj,t3_euczqp,"&gt; xenophobia, power, and war. Biology is not the exclusive basis, though. Environment, including learned practices, play a part as well. It's both because of our genetics and biology as well as our history and ecology that human society takes the form it does.
+
+If this was the case our societies should be the same since the time of our brain developing 100,000 years ago. Societies and cultures change outside of human evolution.",1580093450
+t1_ffpaa8b,t3_euczqp,"&gt; Exactly what conditions set it up so that disrupting an equilibrium state leads to adaptation or diversification versus population decline or collapse is an important area of research in evolutionary theory
+
+All the things mentioned, emergence of science, rockets for the moon have different evidenceable causes. The emergece of science indeed is not tied to any chaos or war but actually a period of advancement for the populations who develop it.
+
+This whole thread is someone putting a pattern together from selective evidence of thousands of years of history. This isn't even what cultural evolution means, cultural evolution occurs more in peace time than war. It's insane, a thesis could be written on everything false in these statements.",1580093345
+t3_euhb05,t3_euhb05,"This post has been removed for the following reason: off-topic.
+
+Check out /r/debateEvolution instead, which was set up specifically for what you're doing.",1580093157
+t3_euhb05,t3_euhb05,[removed],1580093039
+t3_eufi8l,t3_eufi8l,"Generally yes, because there are genetic diseases that are recessive, those who avoid mating with relatives are generally less likely to produce offspring with the disease",1580092846
+t3_eufi8l,t3_eufi8l,"Yes, there are all kinds of inbreeding-avoidance heuristics that organisms have developed. It isn't just with mammals, but birds and fish as well.
+
+In humans, one notable heuristic is sharing maternal attention (i.e., watching your mom care for another person). For example, adopted siblings have no attraction for each other as long as they were both raised as infants by the same mother. Of course, *genetically* they might be perfectly compatible, so one could argue that the mechanism ""misfires"" in this case from an evolutionary standpoint. 
+
+Alternately, biological siblings never develop a visceral revulsion for each other if they were raised separately and never knew each other as siblings. I'm sure most siblings in this situation today decide not to make babies if they know they are siblings, but the decision won't be based on a gut feeling. It will be due to cultural reasons (e.g., norms against incest) or simply due to knowledge that the babies won't be healthy. Then again, there are definitely cases where siblings in this situation fall in love and just say ""Fuck it!"". You can find the stories on google if you want, but they're always tragic in one way or another.",1580092230
